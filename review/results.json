@@ -1,0 +1,134 @@
+[
+  {
+    "name": "desktop",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "images": [
+      {
+        "src": "assets/gisele-retrato.webp",
+        "ok": true
+      },
+      {
+        "src": "assets/gisele-autora.webp",
+        "ok": true
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Editorial",
+        "status": "loaded"
+      },
+      {
+        "family": "Editorial",
+        "status": "loaded"
+      },
+      {
+        "family": "Inter",
+        "status": "loaded"
+      }
+    ],
+    "anchors": [],
+    "errors": [],
+    "carousel": true,
+    "menu": true
+  },
+  {
+    "name": "tablet",
+    "width": 768,
+    "scrollWidth": 768,
+    "images": [
+      {
+        "src": "assets/gisele-retrato.webp",
+        "ok": true
+      },
+      {
+        "src": "assets/gisele-autora.webp",
+        "ok": true
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Editorial",
+        "status": "loaded"
+      },
+      {
+        "family": "Editorial",
+        "status": "loaded"
+      },
+      {
+        "family": "Inter",
+        "status": "loaded"
+      }
+    ],
+    "anchors": [],
+    "errors": [],
+    "carousel": true,
+    "menu": true
+  },
+  {
+    "name": "mobile",
+    "width": 390,
+    "scrollWidth": 390,
+    "images": [
+      {
+        "src": "assets/gisele-retrato.webp",
+        "ok": true
+      },
+      {
+        "src": "assets/gisele-autora.webp",
+        "ok": true
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Editorial",
+        "status": "loaded"
+      },
+      {
+        "family": "Editorial",
+        "status": "loaded"
+      },
+      {
+        "family": "Inter",
+        "status": "loaded"
+      }
+    ],
+    "anchors": [],
+    "errors": [],
+    "carousel": true,
+    "menu": true
+  },
+  {
+    "name": "small-mobile",
+    "width": 320,
+    "scrollWidth": 320,
+    "images": [
+      {
+        "src": "assets/gisele-retrato.webp",
+        "ok": true
+      },
+      {
+        "src": "assets/gisele-autora.webp",
+        "ok": true
+      }
+    ],
+    "fonts": [
+      {
+        "family": "Editorial",
+        "status": "loaded"
+      },
+      {
+        "family": "Editorial",
+        "status": "loaded"
+      },
+      {
+        "family": "Inter",
+        "status": "loaded"
+      }
+    ],
+    "anchors": [],
+    "errors": [],
+    "carousel": true,
+    "menu": true
+  }
+]
